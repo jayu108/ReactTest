@@ -1,3 +1,3 @@
-<h1>Flux Example 1 </h1>
+# Flux Example 1 
 
-Ref: Pro React chapter 6.
+### Ref: Pro React chapter 6.
